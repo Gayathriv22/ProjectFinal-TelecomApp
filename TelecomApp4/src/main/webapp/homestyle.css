@@ -1,0 +1,18 @@
+.homebody{
+text-align: center;
+    font-family: cursive;
+ color: black;
+ }
+ .c1{
+ border: 5px solid black;
+ box-sizing: border-box;
+
+  padding: 12px 20px;
+  background-color: darkgray;
+ }
+ .btn{
+ text-align: center;
+ padding:10px;
+ border: 2px solid black;
+ margin: 5px;
+ }

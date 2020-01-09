@@ -1,0 +1,23 @@
+#form1{border: 3px solid black;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+.aaa{
+            padding: 5px;
+            text-align: center;
+            margin: 10px;
+    }
+
+
